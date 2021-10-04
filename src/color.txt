@@ -1,0 +1,2 @@
+ navbar color - "#eaaf00"
+body bgc - rgb(37, 37, 37)

@@ -1,0 +1,7 @@
+.App{
+  background-color: rgb(214, 214, 214);
+  overflow-x: hidden;
+}
+.error{
+  color: red;
+}
